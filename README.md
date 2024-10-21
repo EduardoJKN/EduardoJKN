@@ -34,7 +34,7 @@ Tenho 24 anos, sou do Rio Grande do Sul e iniciei minha carreira em programaçã
 </p>
 
 ### 🖥️ Tecnologias e Ferramentas: 
-<img width="400px" align="right" src="https://i.ibb.co/DW0HkyB/Removal-955.png">
+<img width="260px" align="right" src="https://i.ibb.co/DW0HkyB/Removal-955.png">
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
