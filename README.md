@@ -1,4 +1,4 @@
-<img align="right" width="235px" style="margin-top:-20px" src="https://i.ibb.co/bsKBsjD/Cartoon.png">
+<img align="right" width="210px" style="margin-top:-20px" src="https://i.ibb.co/bsKBsjD/Cartoon.png">
 </br>
 </br>
 </br>
