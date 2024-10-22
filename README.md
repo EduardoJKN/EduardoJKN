@@ -72,3 +72,11 @@ Tenho 24 anos, sou do Rio Grande do Sul e iniciei minha carreira em programaçã
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EduardoJKN&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+#
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EduardoJKN/EduardoJKN/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EduardoJKN/EduardoJKN/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EduardoJKN/EduardoJKN/output/github-contribution-grid-snake.svg">
+</picture>
