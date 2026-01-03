@@ -29,7 +29,6 @@ Tenho foco em transformar dados em informações úteis para apoio à tomada de 
 ## 📊 GitHub Stats
 <p align="center">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EduardoJKN&show_icons=true&theme=algolia"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EduardoJKN&layout=compact&theme=algolia"/>
 </p>
 
 ---
